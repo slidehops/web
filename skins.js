@@ -60432,1050 +60432,1225 @@ window.skins = [
   {
     "name": "Clan Cape",
     "id": 7578,
+    "type": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_297.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Clan Pole Banner",
     "id": 7579,
+    "type": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_298.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Clan Banner",
     "id": 7580,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_157.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Clan Tabard",
     "id": 7581,
+    "type": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_296.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7582,
+    "weapon": 1,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_520.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7583,
+    "weapon": 2,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_547.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7584,
+    "weapon": 9,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_142.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7585,
+    "weapon": 5,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_379.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7586,
+    "weapon": 7,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_294.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7587,
+    "weapon": 14,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_62.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7588,
+    "weapon": 15,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_338.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7589,
+    "weapon": 29,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_52.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7590,
+    "weapon": 19,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_120.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7591,
+    "weapon": 4,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_443.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Sniper",
     "id": 7592,
+    "weapon": 1,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_521.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it AK",
     "id": 7593,
+    "weapon": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_548.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it SMG",
     "id": 7594,
+    "weapon": 4,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_444.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Rev",
     "id": 7595,
+    "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_381.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Shotty",
     "id": 7596,
+    "weapon": 6,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_352.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Noir",
     "id": 7597,
+    "weapon": 7,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_295.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Semi",
     "id": 7598,
+    "weapon": 8,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_295.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it RL",
     "id": 7599,
+    "weapon": 9,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_143.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Uzi",
     "id": 7600,
+    "weapon": 10,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_11.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Crossy",
     "id": 7601,
+    "weapon": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_63.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Famas",
     "id": 7602,
+    "weapon": 15,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_340.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Blaster",
     "id": 7603,
+    "weapon": 19,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_121.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Charger",
     "id": 7604,
+    "weapon": 29,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_53.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Pistol",
     "id": 7605,
+    "weapon": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_4.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Golden",
     "id": 7606,
+    "weapon": 11,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_148.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pop-it Glorp Gun",
     "id": 7607,
+    "weapon": 12,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_12.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7608,
+    "weapon": 6,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_351.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7609,
+    "weapon": 8,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_249.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured",
     "id": 7610,
+    "weapon": 10,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_200.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Nebula",
     "id": 7611,
+    "weapon": 15,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_339.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Ravens Mark",
     "id": 7612,
+    "weapon": 1,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_519.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Sand Rhino",
     "id": 7613,
+    "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_14.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Sand PP90",
     "id": 7614,
+    "weapon": 10,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_197.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Eterno Cap",
     "id": 7615,
+    "type": 1,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_179_7.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Eterno Snap",
     "id": 7616,
+    "type": 3,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_159.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Eterno Spinner",
     "id": 7617,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_160.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Ranked Tamer",
     "id": 7618,
+    "type": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_299.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Snow Rhino",
     "id": 7619,
+    "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_15.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Snow PP90",
     "id": 7620,
+    "weapon": 10,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_198.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Salvaged Shiv",
     "id": 7621,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_161.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Spoon",
     "id": 7622,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_162.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "BUBBLR",
     "id": 7623,
+    "weapon": 5,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m15_16.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Lactose Intolerant",
     "id": 7624,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_163.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pin",
     "id": 7625,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_164.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Compound Bow",
     "id": 7627,
+    "weapon": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m8_8.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Sword Fish",
     "id": 7628,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_165.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "EDU-45 Compact",
     "id": 7629,
+    "weapon": 4,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m29_37.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Protractor X",
     "id": 7630,
+    "weapon": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m9_9.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Nagant M1895",
     "id": 7631,
+    "weapon": 5,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_17.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Mosin Nagant",
     "id": 7632,
+    "weapon": 1,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m44_48.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Checkmark",
     "id": 7633,
+    "type": 1,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_509.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Epica Glasses",
     "id": 7634,
+    "type": 15,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_510.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Symphony Tamer",
     "id": 7635,
+    "type": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_300.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fossil AK",
     "id": 7636,
+    "weapon": 2,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m31_418.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Rhino",
     "id": 7637,
+    "weapon": 5,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_18.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Comic",
     "id": 7638,
+    "type": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_301.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "PP90",
     "id": 7639,
+    "weapon": 10,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_199.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Wing Cap",
     "id": 7640,
+    "type": 1,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_511.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Cyber Scythe",
     "id": 7641,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_166.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Bricks",
     "id": 7642,
+    "type": 1,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_512.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pocket Property",
     "id": 7643,
+    "type": 12,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_29.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Genesis (Neon) Redux",
     "id": 7644,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_167.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Void Fractured",
     "id": 7645,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_168.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Void Fractured",
     "id": 7646,
+    "weapon": 2,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m32_419.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Void Fractured",
     "id": 7647,
+    "weapon": 1,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m45_49.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Spitfire Regent",
     "id": 7648,
+    "weapon": 1,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m46_50.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Blowdart",
     "id": 7649,
+    "weapon": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m10_10.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Longbow",
     "id": 7650,
+    "weapon": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m11_11.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Krevlin",
     "id": 7651,
+    "weapon": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m12_12.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Tact'eagle",
     "id": 7652,
+    "weapon": 11,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m11_95.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Horus Soul Seeker",
     "id": 7653,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_169.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Weeeeee Mill",
     "id": 7654,
+    "type": 15,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_513.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Fractured Talon",
     "id": 7655,
+    "type": 3,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_160.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Kroomerang",
     "id": 7656,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_170.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "RichGetRicher",
     "id": 7657,
+    "weapon": 17,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_125.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Streamline",
     "id": 7658,
+    "weapon": 11,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_147.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Viper Fang",
     "id": 7659,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_171.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Viscera",
     "id": 7660,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_172.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Ana Conda",
     "id": 7661,
+    "type": 7,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_619.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Intrigued",
     "id": 7662,
+    "type": 7,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_620.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Glen's Requiem",
     "id": 7663,
+    "type": 7,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_621.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Spine of the Damned",
     "id": 7664,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_173.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Voidborn",
     "id": 7665,
+    "type": 7,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_622.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Symphonica",
     "id": 7666,
+    "type": 1,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_514.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Firstlight Skull",
     "id": 7667,
+    "type": 7,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_623.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Strawberry Delight",
     "id": 7668,
+    "type": 7,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_624.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Lord of Gears",
     "id": 7669,
+    "weapon": 5,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m17_19.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Skullsplitter",
     "id": 7670,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_174.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "OTs-14 Groza",
     "id": 7671,
+    "weapon": 2,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_420.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7672,
+    "weapon": 25,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_25_23.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7673,
+    "weapon": 22,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_32.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7674,
+    "weapon": 16,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_16_42.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7675,
+    "weapon": 9,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_144.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7676,
+    "weapon": 23,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_23_14.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7677,
+    "weapon": 11,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_149.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7678,
+    "weapon": 31,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_6.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7679,
+    "weapon": 29,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_54.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7680,
+    "weapon": 19,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_122.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7681,
+    "weapon": 17,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_126.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7682,
+    "weapon": 12,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m5_10.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7683,
+    "weapon": 14,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_64.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7684,
+    "weapon": 28,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_28_23.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7685,
+    "type": 3,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_0_156.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7686,
+    "weapon": 1,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_522.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7687,
+    "weapon": 4,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_445.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7688,
+    "weapon": 15,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_341.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7689,
+    "weapon": 10,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_201.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7690,
+    "weapon": 7,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_296.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7691,
+    "weapon": 5,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_382.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7692,
+    "weapon": 8,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_296.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7693,
+    "weapon": 6,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_353.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7694,
+    "weapon": 2,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_549.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Usb Shoes",
     "id": 7695,
+    "type": 8,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_65.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Apache Knuckleduster",
     "id": 7696,
+    "weapon": 5,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m18_20.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Baller",
     "id": 7697,
+    "weapon": 15,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_c6.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pellucid",
     "id": 7698,
+    "weapon": 4,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_c8.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pellucid",
     "id": 7699,
+    "weapon": 15,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_c8.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Baller",
     "id": 7700,
+    "weapon": 19,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_c6.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "BlueCamo Fang",
     "id": 7701,
+    "type": 3,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_161.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Amethyst Gold Blend",
     "id": 7702,
+    "weapon": 3,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_86.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "KPD Armament",
     "id": 7703,
+    "type": 16,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_73.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Khepri",
     "id": 7704,
+    "type": 16,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_74.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Jump Slicer",
     "id": 7713,
+    "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_175.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Krunkersaurus!",
     "id": 7714,
+    "type": 9,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_21.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Eterno Visitor",
     "id": 7716,
+    "type": 2,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_302.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Eterno",
     "id": 7717,
+    "weapon": 2,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_c9.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Sandstorm OTs-14 Groza",
     "id": 7718,
+    "weapon": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_550.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Sandstorm Nagant M1895",
     "id": 7719,
+    "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_383.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Permafrost OTs-14 Groza",
     "id": 7720,
+    "weapon": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_551.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Permafrost Nagant M1895",
     "id": 7721,
+    "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_384.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "S9.1 Bronze Rank",
     "id": 7722,
+    "type": 12,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_30.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "S9.1 Silver Rank",
     "id": 7723,
+    "type": 12,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_31.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "S9.1 Gold Rank",
     "id": 7724,
+    "type": 12,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_32.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "S9.1 Platinum Rank",
     "id": 7725,
+    "type": 12,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_33.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "S9.1 Diamond Rank",
     "id": 7726,
+    "type": 12,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_34.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "S9.1 Master Rank",
     "id": 7727,
+    "type": 12,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_35.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Ranked",
     "id": 7728,
+    "weapon": 6,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_347.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Ranked",
     "id": 7729,
+    "weapon": 19,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_c3.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Crowbar",
     "id": 7730,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_176.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Ancient Carving",
     "id": 7731,
+    "type": 7,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_625.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Out of the Box",
     "id": 7732,
+    "type": 7,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_3_13.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "5FPS",
     "id": 7733,
+    "type": 7,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_3_14.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Slingshot",
     "id": 7734,
+    "weapon": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m13_65.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Space Program Helmet",
     "id": 7735,
+    "type": 15,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_515.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Space Program Suit",
     "id": 7736,
+    "type": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_303.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Space Program Belt",
     "id": 7737,
+    "type": 6,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_92.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Space Program Backpack",
     "id": 7738,
+    "type": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_304.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Spiky Hair",
     "id": 7739,
+    "type": 1,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_516.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Gear-Driven Hat",
     "id": 7740,
+    "type": 1,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_517.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Gear-Driven Jacket",
     "id": 7741,
+    "type": 2,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_305.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Gear-Driven Belt",
     "id": 7742,
+    "type": 6,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_93.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Gear-Driven Star",
     "id": 7743,
+    "type": 6,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_94.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Black Gi",
     "id": 7744,
+    "type": 2,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_306.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Navy Gi Sash",
     "id": 7745,
+    "type": 6,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_95.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Burger",
     "id": 7746,
+    "type": 9,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_22.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pizza Top",
     "id": 7747,
+    "type": 15,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_518.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pizza Bottom",
     "id": 7748,
+    "type": 2,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_307.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Gear-Driven Boots",
     "id": 7749,
+    "type": 8,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_66.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Pizza Box",
     "id": 7750,
+    "type": 14,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_308.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Mezzaluna",
     "id": 7751,
+    "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_177.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Space Program",
     "id": 7752,
+    "type": 16,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_75.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "⁠Gear-Driven",
     "id": 7753,
+    "type": 16,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_76.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Buon Appetito",
     "id": 7754,
+    "type": 16,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_77.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "What?! Urikuku",
     "id": 7755,
+    "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_21.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Chill... Gabakuku",
     "id": 7756,
+    "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_22.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Sob... Jokuku",
     "id": 7757,
+    "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_23.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "ARGH... Michakuku",
     "id": 7758,
+    "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_24.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "OMEGALUL Barakuku",
     "id": 7759,
+    "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_25.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Okay! Selakuku",
     "id": 7760,
+    "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_26.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Zzz... Rapkuku",
     "id": 7761,
+    "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_27.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
     "name": "Bowling Ball",
     "id": 7762,
+    "weapon": 30,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m2_6.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   }
