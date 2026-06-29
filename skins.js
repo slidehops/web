@@ -62270,5 +62270,33 @@ window.skins = [
     "type": 16,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_79.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
+  },
+  {
+    "name": "Lavender Paint",
+    "id": 7831,
+    "type": 18,
+    "rarity": 6,
+    "thumbnail": "https://assets.krunker.io/textures/paints/paint_lavender.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
+  },
+  {
+    "name": "Pastel Green Paint",
+    "id": 7832,
+    "type": 18,
+    "rarity": 6,
+    "thumbnail": "https://assets.krunker.io/textures/paints/paint_pastelgreen.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
+  },
+  {
+    "name": "Pastel Blue Paint",
+    "id": 7833,
+    "type": 18,
+    "rarity": 6,
+    "thumbnail": "https://assets.krunker.io/textures/paints/paint_pastelblue.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
+  },
+  {
+    "name": "Pink Paint",
+    "id": 7834,
+    "type": 18,
+    "rarity": 6,
+    "thumbnail": "https://assets.krunker.io/textures/paints/paint_pink.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   }
 ];
