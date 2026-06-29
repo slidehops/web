@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #000912;
+  background-image: url(https://i.postimg.cc/RCTjchY1/1309903.jpg);
   font-family: "FFFFORWA", Arial, sans-serif;
   padding: 20px;
   color: white;
@@ -249,4 +249,3 @@ h1 {
 .skin-card.contraband .skin-name { color: #292929; }
 .skin-card.unobtainable .skin-name { animation: rainbow 0.5s linear infinite; }
 .skin-card.nft .skin-name { color: #f3b8ff; }
-
