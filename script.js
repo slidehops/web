@@ -57,6 +57,7 @@ window.addEventListener('load', () => {
   const itemNameEl = document.getElementById("itemViewName");
   const itemTypeEl = document.getElementById("itemViewType");
   const itemFrame = document.getElementById("itemViewFrame");
+  const itemImage = document.getElementById("itemViewImage");
   const itemInfoBtn = document.getElementById("itemInfoBtn");
   const itemViewPop = document.getElementById("itemViewPop");
 
@@ -67,6 +68,7 @@ window.addEventListener('load', () => {
     itemNameEl.textContent = '';
     itemTypeEl.textContent = '';
     itemFrame.src = ''; // clear iframe
+    itemImage.src = ''; // clear image
 
     // Remove old rarity classes
     itemTypeEl.className = "";
@@ -80,10 +82,21 @@ window.addEventListener('load', () => {
     itemNameEl.textContent = skin.name;
     itemTypeEl.textContent = skin.skinType;
 
-    // Load iframe after a tiny delay to ensure clearing worked
-    setTimeout(() => {
-      itemFrame.src = `https://krunker.io/viewer.html?nobg&showcase=${skin.id}`;
-    }, 0);
+    // Paints don't have a 3D showcase - use their texture thumbnail directly
+    const isPaint = skin.skinType === "Paint";
+
+    if (isPaint) {
+      itemFrame.style.display = "none";
+      itemImage.style.display = "block";
+      itemImage.src = skin.thumbnail;
+    } else {
+      itemImage.style.display = "none";
+      itemFrame.style.display = "block";
+      // Load iframe after a tiny delay to ensure clearing worked
+      setTimeout(() => {
+        itemFrame.src = `https://krunker.io/viewer.html?nobg&showcase=${skin.id}`;
+      }, 0);
+    }
 
     // More info button
     itemInfoBtn.onclick = () => {
