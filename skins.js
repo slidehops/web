@@ -42,7 +42,8 @@ window.itemTypes = {
   14: "Back Item",
   15: "Head Item",
   16: "Player Card",
-  17: "Emoji"
+  17: "Emoji",
+  18: "Paint"
 };
 
 window.skins = [
