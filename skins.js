@@ -58180,26 +58180,12 @@ window.skins = [
     "index": 7275
   },
   {
-    "name": "Twilight Fang",
-    "id": 7274,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_155.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Twilight",
     "id": 7275,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_509.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7276
-  },
-  {
-    "name": "Twilight",
-    "id": 7275,
-    "weapon": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_509.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Twilight",
@@ -58211,25 +58197,11 @@ window.skins = [
   },
   {
     "name": "Twilight",
-    "id": 7276,
-    "weapon": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_540.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Twilight",
     "id": 7277,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_436.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7278
-  },
-  {
-    "name": "Twilight",
-    "id": 7277,
-    "weapon": 4,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_436.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Twilight",
@@ -58241,25 +58213,11 @@ window.skins = [
   },
   {
     "name": "Twilight",
-    "id": 7278,
-    "weapon": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_373.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Twilight",
     "id": 7279,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_341.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 6,
     "index": 7280
-  },
-  {
-    "name": "Twilight",
-    "id": 7279,
-    "weapon": 6,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_341.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Twilight",
@@ -58270,26 +58228,12 @@ window.skins = [
     "index": 7281
   },
   {
-    "name": "Twilight",
-    "id": 7280,
-    "weapon": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_332.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Intervention VII",
     "id": 7281,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m0_39.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7282
-  },
-  {
-    "name": "Intervention VII",
-    "id": 7281,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m0_39.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Canvas",
@@ -58300,26 +58244,12 @@ window.skins = [
     "index": 7283
   },
   {
-    "name": "Canvas",
-    "id": 7282,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_0_153.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Hand Made",
     "id": 7283,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m18_342.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 6,
     "index": 7284
-  },
-  {
-    "name": "Hand Made",
-    "id": 7283,
-    "weapon": 6,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m18_342.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Canvas",
@@ -58331,25 +58261,11 @@ window.skins = [
   },
   {
     "name": "Canvas",
-    "id": 7284,
-    "weapon": 29,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_46.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Canvas",
     "id": 7285,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_1.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 31,
     "index": 7286
-  },
-  {
-    "name": "Canvas",
-    "id": 7285,
-    "weapon": 31,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Canvas",
@@ -58361,25 +58277,11 @@ window.skins = [
   },
   {
     "name": "Canvas",
-    "id": 7286,
-    "weapon": 11,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_142.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Canvas",
     "id": 7287,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_1.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 3,
     "index": 7288
-  },
-  {
-    "name": "Canvas",
-    "id": 7287,
-    "weapon": 3,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Canvas",
@@ -58391,25 +58293,11 @@ window.skins = [
   },
   {
     "name": "Canvas",
-    "id": 7288,
-    "weapon": 9,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_136.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Canvas",
     "id": 7289,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_16_39.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 16,
     "index": 7290
-  },
-  {
-    "name": "Canvas",
-    "id": 7289,
-    "weapon": 16,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_16_39.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Canvas",
@@ -58421,25 +58309,11 @@ window.skins = [
   },
   {
     "name": "Canvas",
-    "id": 7290,
-    "weapon": 22,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_24.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Canvas",
     "id": 7291,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_25_20.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 25,
     "index": 7292
-  },
-  {
-    "name": "Canvas",
-    "id": 7291,
-    "weapon": 25,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_25_20.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58450,26 +58324,12 @@ window.skins = [
     "index": 7293
   },
   {
-    "name": "Pastel Pop",
-    "id": 7292,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_156.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Desert Techy",
     "id": 7293,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_25.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 22,
     "index": 7294
-  },
-  {
-    "name": "Desert Techy",
-    "id": 7293,
-    "weapon": 22,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_25.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Navy Techy",
@@ -58480,26 +58340,12 @@ window.skins = [
     "index": 7295
   },
   {
-    "name": "Navy Techy",
-    "id": 7294,
-    "weapon": 22,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_26.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Snow Techy",
     "id": 7295,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_27.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 22,
     "index": 7296
-  },
-  {
-    "name": "Snow Techy",
-    "id": 7295,
-    "weapon": 22,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_27.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Jungle Techy",
@@ -58510,26 +58356,12 @@ window.skins = [
     "index": 7297
   },
   {
-    "name": "Jungle Techy",
-    "id": 7296,
-    "weapon": 22,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_28.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Salvaged",
     "id": 7297,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_2.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 31,
     "index": 7298
-  },
-  {
-    "name": "Salvaged",
-    "id": 7297,
-    "weapon": 31,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_2.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58541,25 +58373,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7298,
-    "weapon": 1,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_510.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7299,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_541.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 2,
     "index": 7300
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7299,
-    "weapon": 2,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_541.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58571,25 +58389,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7300,
-    "weapon": 4,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_437.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7301,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_374.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 5,
     "index": 7302
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7301,
-    "weapon": 5,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_374.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58601,25 +58405,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7302,
-    "weapon": 6,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_343.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7303,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_288.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 7,
     "index": 7304
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7303,
-    "weapon": 7,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_288.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58630,26 +58420,12 @@ window.skins = [
     "index": 7305
   },
   {
-    "name": "Pastel Pop",
-    "id": 7304,
-    "weapon": 8,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_240.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Baller",
     "id": 7305,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_c6.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 7,
     "index": 7306
-  },
-  {
-    "name": "Baller",
-    "id": 7305,
-    "weapon": 7,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_c6.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58661,25 +58437,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7306,
-    "weapon": 9,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_137.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7307,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_191.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 10,
     "index": 7308
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7307,
-    "weapon": 10,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_191.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58691,25 +58453,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7308,
-    "weapon": 14,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_58.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7309,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_333.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 15,
     "index": 7310
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7309,
-    "weapon": 15,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_333.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Sunset",
@@ -58718,13 +58466,6 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_29.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 22,
     "index": 7311
-  },
-  {
-    "name": "Sunset",
-    "id": 7310,
-    "weapon": 22,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_29.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "E-Gilded",
@@ -58736,25 +58477,11 @@ window.skins = [
   },
   {
     "name": "E-Gilded",
-    "id": 7311,
-    "weapon": 1,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_511.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "E-Gilded",
     "id": 7312,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_438.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7313
-  },
-  {
-    "name": "E-Gilded",
-    "id": 7312,
-    "weapon": 4,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_438.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "E-Gilded",
@@ -58766,25 +58493,11 @@ window.skins = [
   },
   {
     "name": "E-Gilded",
-    "id": 7313,
-    "weapon": 6,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_348.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "E-Gilded",
     "id": 7314,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_115.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 19,
     "index": 7315
-  },
-  {
-    "name": "E-Gilded",
-    "id": 7314,
-    "weapon": 19,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_115.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Krumaholic",
@@ -58795,26 +58508,12 @@ window.skins = [
     "index": 7316
   },
   {
-    "name": "Krumaholic",
-    "id": 7315,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_152.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Bowling Ball",
     "id": 7316,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m2_2.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 30,
     "index": 7317
-  },
-  {
-    "name": "Bowling Ball",
-    "id": 7316,
-    "weapon": 30,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m2_2.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58826,25 +58525,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7317,
-    "weapon": 16,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_16_40.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7318,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_123.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 17,
     "index": 7319
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7318,
-    "weapon": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_123.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58856,25 +58541,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7319,
-    "weapon": 19,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_116.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7320,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_30.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 22,
     "index": 7321
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7320,
-    "weapon": 22,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_30.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "E-Gilded",
@@ -58886,25 +58557,11 @@ window.skins = [
   },
   {
     "name": "E-Gilded",
-    "id": 7321,
-    "weapon": 10,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_194.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "E-Gilded",
     "id": 7322,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_233.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 8,
     "index": 7323
-  },
-  {
-    "name": "E-Gilded",
-    "id": 7322,
-    "weapon": 8,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_233.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "E-Gilded",
@@ -58916,13 +58573,6 @@ window.skins = [
   },
   {
     "name": "E-Gilded",
-    "id": 7323,
-    "weapon": 29,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_47.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "E-Gilded",
     "id": 7324,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_334.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
@@ -58931,25 +58581,11 @@ window.skins = [
   },
   {
     "name": "E-Gilded",
-    "id": 7324,
-    "weapon": 15,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_334.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "E-Gilded",
     "id": 7325,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_290.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 7,
     "index": 7326
-  },
-  {
-    "name": "E-Gilded",
-    "id": 7325,
-    "weapon": 7,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_290.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58961,25 +58597,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7326,
-    "weapon": 25,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_25_21.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7327,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_28_22.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 28,
     "index": 7328
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7327,
-    "weapon": 28,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_28_22.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -58991,25 +58613,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7328,
-    "weapon": 29,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_48.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7329,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_2.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 3,
     "index": 7330
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7329,
-    "weapon": 3,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_2.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -59021,13 +58629,6 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7330,
-    "weapon": 11,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_143.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7331,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_23_13.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
@@ -59036,25 +58637,11 @@ window.skins = [
   },
   {
     "name": "Pastel Pop",
-    "id": 7331,
-    "weapon": 23,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_23_13.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pastel Pop",
     "id": 7332,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_3.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 31,
     "index": 7333
-  },
-  {
-    "name": "Pastel Pop",
-    "id": 7332,
-    "weapon": 31,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_3.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Depleted Pop",
@@ -59066,25 +58653,11 @@ window.skins = [
   },
   {
     "name": "Depleted Pop",
-    "id": 7333,
-    "weapon": 2,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_542.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Depleted Pop",
     "id": 7334,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_512.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7335
-  },
-  {
-    "name": "Depleted Pop",
-    "id": 7334,
-    "weapon": 1,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_512.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Depleted Pop",
@@ -59096,25 +58669,11 @@ window.skins = [
   },
   {
     "name": "Depleted Pop",
-    "id": 7335,
-    "weapon": 4,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_439.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Depleted Pop",
     "id": 7336,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_117.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 19,
     "index": 7337
-  },
-  {
-    "name": "Depleted Pop",
-    "id": 7336,
-    "weapon": 19,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_117.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Depleted Pop",
@@ -59126,25 +58685,11 @@ window.skins = [
   },
   {
     "name": "Depleted Pop",
-    "id": 7337,
-    "weapon": 29,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_49.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Depleted Pop",
     "id": 7338,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_335.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 15,
     "index": 7339
-  },
-  {
-    "name": "Depleted Pop",
-    "id": 7338,
-    "weapon": 15,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_335.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Depleted Pop",
@@ -59156,25 +58701,11 @@ window.skins = [
   },
   {
     "name": "Depleted Pop",
-    "id": 7339,
-    "weapon": 14,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_59.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Depleted Pop",
     "id": 7340,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_192.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 10,
     "index": 7341
-  },
-  {
-    "name": "Depleted Pop",
-    "id": 7340,
-    "weapon": 10,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_192.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Depleted Pop",
@@ -59186,25 +58717,11 @@ window.skins = [
   },
   {
     "name": "Depleted Pop",
-    "id": 7341,
-    "weapon": 7,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_291.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Depleted Pop",
     "id": 7342,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_375.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 5,
     "index": 7343
-  },
-  {
-    "name": "Depleted Pop",
-    "id": 7342,
-    "weapon": 5,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_375.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Depleted Pop",
@@ -59216,25 +58733,11 @@ window.skins = [
   },
   {
     "name": "Depleted Pop",
-    "id": 7343,
-    "weapon": 9,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_138.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Depleted Pop",
     "id": 7344,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_241.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 8,
     "index": 7345
-  },
-  {
-    "name": "Depleted Pop",
-    "id": 7344,
-    "weapon": 8,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_241.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Depleted Pop",
@@ -59245,26 +58748,12 @@ window.skins = [
     "index": 7346
   },
   {
-    "name": "Depleted Pop",
-    "id": 7345,
-    "weapon": 6,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_344.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "E-Gilded",
     "id": 7346,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_543.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 2,
     "index": 7347
-  },
-  {
-    "name": "E-Gilded",
-    "id": 7346,
-    "weapon": 2,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_543.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pastel Pop",
@@ -59275,26 +58764,12 @@ window.skins = [
     "index": 7348
   },
   {
-    "name": "Pastel Pop",
-    "id": 7347,
-    "weapon": 12,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m5_8.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Depleted Pop",
     "id": 7348,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_2_13.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7349
-  },
-  {
-    "name": "Depleted Pop",
-    "id": 7348,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_2_13.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Unit-C3",
@@ -59305,26 +58780,12 @@ window.skins = [
     "index": 7350
   },
   {
-    "name": "Unit-C3",
-    "id": 7349,
-    "weapon": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_513.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Krunker Express Card",
     "id": 7350,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_103_2.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7351
-  },
-  {
-    "name": "Krunker Express Card",
-    "id": 7350,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_103_2.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "7.62x39mm",
@@ -59335,26 +58796,12 @@ window.skins = [
     "index": 7352
   },
   {
-    "name": "7.62x39mm",
-    "id": 7351,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_13.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "9mm",
     "id": 7352,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_14.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7353
-  },
-  {
-    "name": "9mm",
-    "id": 7352,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_14.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Open Minded",
@@ -59365,13 +58812,6 @@ window.skins = [
     "index": 7354
   },
   {
-    "name": "Open Minded",
-    "id": 7353,
-    "type": 7,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_617.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Vector Desert Dune",
     "id": 7354,
     "rarity": 5,
@@ -59380,26 +58820,12 @@ window.skins = [
     "index": 7355
   },
   {
-    "name": "Vector Desert Dune",
-    "id": 7354,
-    "weapon": 4,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m25_26.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Vector",
     "id": 7355,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m25_27.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7356
-  },
-  {
-    "name": "Vector",
-    "id": 7355,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m25_27.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula",
@@ -59411,25 +58837,11 @@ window.skins = [
   },
   {
     "name": "Nebula",
-    "id": 7356,
-    "weapon": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_514.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Nebula",
     "id": 7357,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_440.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7358
-  },
-  {
-    "name": "Nebula",
-    "id": 7357,
-    "weapon": 4,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_440.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula",
@@ -59441,25 +58853,11 @@ window.skins = [
   },
   {
     "name": "Nebula",
-    "id": 7358,
-    "weapon": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_376.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Nebula",
     "id": 7359,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_345.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 6,
     "index": 7360
-  },
-  {
-    "name": "Nebula",
-    "id": 7359,
-    "weapon": 6,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_345.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula",
@@ -59471,25 +58869,11 @@ window.skins = [
   },
   {
     "name": "Nebula",
-    "id": 7360,
-    "weapon": 7,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_292.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Nebula",
     "id": 7361,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_242.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 8,
     "index": 7362
-  },
-  {
-    "name": "Nebula",
-    "id": 7361,
-    "weapon": 8,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_242.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula",
@@ -59501,25 +58885,11 @@ window.skins = [
   },
   {
     "name": "Nebula",
-    "id": 7362,
-    "weapon": 9,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_139.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Nebula",
     "id": 7363,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_193.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 10,
     "index": 7364
-  },
-  {
-    "name": "Nebula",
-    "id": 7363,
-    "weapon": 10,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_193.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula Fang",
@@ -59528,13 +58898,6 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_157.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7365
-  },
-  {
-    "name": "Nebula Fang",
-    "id": 7364,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_157.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula",
@@ -59546,25 +58909,11 @@ window.skins = [
   },
   {
     "name": "Nebula",
-    "id": 7365,
-    "weapon": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_60.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Nebula",
     "id": 7366,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_118.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 19,
     "index": 7367
-  },
-  {
-    "name": "Nebula",
-    "id": 7366,
-    "weapon": 19,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_118.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula",
@@ -59576,25 +58925,11 @@ window.skins = [
   },
   {
     "name": "Nebula",
-    "id": 7367,
-    "weapon": 29,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_50.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Nebula",
     "id": 7368,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_544.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 2,
     "index": 7369
-  },
-  {
-    "name": "Nebula",
-    "id": 7368,
-    "weapon": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_544.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nebula",
@@ -59605,13 +58940,6 @@ window.skins = [
     "index": 7370
   },
   {
-    "name": "Nebula",
-    "id": 7369,
-    "weapon": 11,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_144.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Suomi SMG",
     "id": 7370,
     "rarity": 6,
@@ -59620,26 +58948,12 @@ window.skins = [
     "index": 7371
   },
   {
-    "name": "Suomi SMG",
-    "id": 7370,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m26_28.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "P90",
     "id": 7371,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m10_29.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7372
-  },
-  {
-    "name": "P90",
-    "id": 7371,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m10_29.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pellucid",
@@ -59651,25 +58965,11 @@ window.skins = [
   },
   {
     "name": "Pellucid",
-    "id": 7372,
-    "weapon": 8,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_c8.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pellucid",
     "id": 7373,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_c8.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 5,
     "index": 7374
-  },
-  {
-    "name": "Pellucid",
-    "id": 7373,
-    "weapon": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_c8.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Winchester 1866",
@@ -59680,26 +58980,12 @@ window.skins = [
     "index": 7375
   },
   {
-    "name": "Winchester 1866",
-    "id": 7374,
-    "weapon": 8,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m13_247.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Baller",
     "id": 7375,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_c6.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 10,
     "index": 7376
-  },
-  {
-    "name": "Baller",
-    "id": 7375,
-    "weapon": 10,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_c6.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Wood Dagger",
@@ -59710,26 +58996,12 @@ window.skins = [
     "index": 7377
   },
   {
-    "name": "Wood Dagger",
-    "id": 7376,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_0_154.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Wood Fang",
     "id": 7377,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_158.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7378
-  },
-  {
-    "name": "Wood Fang",
-    "id": 7377,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_158.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Glacier",
@@ -59740,26 +59012,12 @@ window.skins = [
     "index": 7379
   },
   {
-    "name": "Glacier",
-    "id": 7378,
-    "weapon": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_545.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pecheneg-SP",
     "id": 7379,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m18_287.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 7,
     "index": 7380
-  },
-  {
-    "name": "Pecheneg-SP",
-    "id": 7379,
-    "weapon": 7,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m18_287.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pecheneg-SP Desert Dune",
@@ -59770,26 +59028,12 @@ window.skins = [
     "index": 7381
   },
   {
-    "name": "Pecheneg-SP Desert Dune",
-    "id": 7380,
-    "weapon": 7,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m18_288.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Gilded Fang",
     "id": 7381,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_159.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7382
-  },
-  {
-    "name": "Gilded Fang",
-    "id": 7381,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_159.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Honey Badger",
@@ -59800,26 +59044,12 @@ window.skins = [
     "index": 7383
   },
   {
-    "name": "Honey Badger",
-    "id": 7382,
-    "weapon": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m29_414.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Honey Badger Desert Dune",
     "id": 7383,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m29_415.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 2,
     "index": 7384
-  },
-  {
-    "name": "Honey Badger Desert Dune",
-    "id": 7383,
-    "weapon": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m29_415.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "MP5 Sahara Shade",
@@ -59830,26 +59060,12 @@ window.skins = [
     "index": 7385
   },
   {
-    "name": "MP5 Sahara Shade",
-    "id": 7384,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m1_30.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "G11 Krunkette",
     "id": 7385,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_9.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 15,
     "index": 7386
-  },
-  {
-    "name": "G11 Krunkette",
-    "id": 7385,
-    "weapon": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_9.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "G11",
@@ -59860,26 +59076,12 @@ window.skins = [
     "index": 7387
   },
   {
-    "name": "G11",
-    "id": 7386,
-    "weapon": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_10.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "G11 Desert Dune",
     "id": 7387,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_11.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 15,
     "index": 7388
-  },
-  {
-    "name": "G11 Desert Dune",
-    "id": 7387,
-    "weapon": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_11.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Cherry Blossom",
@@ -59891,25 +59093,11 @@ window.skins = [
   },
   {
     "name": "Cherry Blossom",
-    "id": 7388,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m0_40.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Cherry Blossom",
     "id": 7389,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_0_155.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7390
-  },
-  {
-    "name": "Cherry Blossom",
-    "id": 7389,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_0_155.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Cherry Blossom",
@@ -59920,26 +59108,12 @@ window.skins = [
     "index": 7391
   },
   {
-    "name": "Cherry Blossom",
-    "id": 7390,
-    "weapon": 11,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_145.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Sanguis",
     "id": 7391,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_11_4.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7392
-  },
-  {
-    "name": "Sanguis",
-    "id": 7391,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_11_4.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Zaprium",
@@ -59950,26 +59124,12 @@ window.skins = [
     "index": 7393
   },
   {
-    "name": "Zaprium",
-    "id": 7392,
-    "weapon": 25,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_25_22.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Hyper Blue",
     "id": 7393,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_235.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 8,
     "index": 7394
-  },
-  {
-    "name": "Hyper Blue",
-    "id": 7393,
-    "weapon": 8,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_235.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Aqua Glow",
@@ -59980,26 +59140,12 @@ window.skins = [
     "index": 7395
   },
   {
-    "name": "Aqua Glow",
-    "id": 7394,
-    "weapon": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_515.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Dark Current",
     "id": 7395,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_516.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7396
-  },
-  {
-    "name": "Dark Current",
-    "id": 7395,
-    "weapon": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_516.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Diamond Tide",
@@ -60010,13 +59156,6 @@ window.skins = [
     "index": 7397
   },
   {
-    "name": "Diamond Tide",
-    "id": 7396,
-    "weapon": 15,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_336.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Hellvein",
     "id": 7397,
     "rarity": 5,
@@ -60025,26 +59164,12 @@ window.skins = [
     "index": 7398
   },
   {
-    "name": "Hellvein",
-    "id": 7397,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_10_16.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Michakuku",
     "id": 7398,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_15.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7399
-  },
-  {
-    "name": "Michakuku",
-    "id": 7398,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_15.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Raynb0w",
@@ -60056,25 +59181,11 @@ window.skins = [
   },
   {
     "name": "Raynb0w",
-    "id": 7399,
-    "weapon": 31,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_c1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Raynb0w",
     "id": 7400,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_c1.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 30,
     "index": 7401
-  },
-  {
-    "name": "Raynb0w",
-    "id": 7400,
-    "weapon": 30,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_c1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60086,25 +59197,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7401,
-    "weapon": 2,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_546.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7402,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_11.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 12,
     "index": 7403
-  },
-  {
-    "name": "UV Master",
-    "id": 7402,
-    "weapon": 12,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_11.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60116,25 +59213,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7403,
-    "weapon": 17,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_124.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7404,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_119.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 19,
     "index": 7405
-  },
-  {
-    "name": "UV Master",
-    "id": 7404,
-    "weapon": 19,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_119.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60146,25 +59229,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7405,
-    "weapon": 29,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_51.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7406,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_5.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 31,
     "index": 7407
-  },
-  {
-    "name": "UV Master",
-    "id": 7406,
-    "weapon": 31,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_5.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60176,25 +59245,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7407,
-    "weapon": 14,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_61.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7408,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_146.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 11,
     "index": 7409
-  },
-  {
-    "name": "UV Master",
-    "id": 7408,
-    "weapon": 11,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_146.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60206,25 +59261,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7409,
-    "weapon": 15,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_337.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7410,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_293.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 7,
     "index": 7411
-  },
-  {
-    "name": "UV Master",
-    "id": 7410,
-    "weapon": 7,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_293.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60236,25 +59277,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7411,
-    "weapon": 3,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_3.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7412,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_378.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 5,
     "index": 7413
-  },
-  {
-    "name": "UV Master",
-    "id": 7412,
-    "weapon": 5,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_378.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60266,25 +59293,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7413,
-    "weapon": 9,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_140.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7414,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_16_41.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 16,
     "index": 7415
-  },
-  {
-    "name": "UV Master",
-    "id": 7414,
-    "weapon": 16,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_16_41.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60296,25 +59309,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7415,
-    "weapon": 8,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_243.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7416,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_347.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 6,
     "index": 7417
-  },
-  {
-    "name": "UV Master",
-    "id": 7416,
-    "weapon": 6,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_347.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60326,25 +59325,11 @@ window.skins = [
   },
   {
     "name": "UV Master",
-    "id": 7417,
-    "weapon": 4,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_441.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "UV Master",
     "id": 7418,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_517.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7419
-  },
-  {
-    "name": "UV Master",
-    "id": 7418,
-    "weapon": 1,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_517.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "UV Master",
@@ -60355,26 +59340,12 @@ window.skins = [
     "index": 7420
   },
   {
-    "name": "UV Master",
-    "id": 7419,
-    "weapon": 22,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_31.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "MP5 Arctic Marble",
     "id": 7420,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m1_31.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7421
-  },
-  {
-    "name": "MP5 Arctic Marble",
-    "id": 7420,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m1_31.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Series 277-R",
@@ -60385,26 +59356,12 @@ window.skins = [
     "index": 7422
   },
   {
-    "name": "Series 277-R",
-    "id": 7421,
-    "weapon": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_518.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "P90 Arctic Marble",
     "id": 7422,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m27_32.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7423
-  },
-  {
-    "name": "P90 Arctic Marble",
-    "id": 7422,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m27_32.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Trophy",
@@ -60415,26 +59372,12 @@ window.skins = [
     "index": 7424
   },
   {
-    "name": "Trophy",
-    "id": 7423,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_16.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "DMR",
     "id": 7424,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m11_244.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 8,
     "index": 7425
-  },
-  {
-    "name": "DMR",
-    "id": 7424,
-    "weapon": 8,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m11_244.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Scar",
@@ -60445,26 +59388,12 @@ window.skins = [
     "index": 7426
   },
   {
-    "name": "Scar",
-    "id": 7425,
-    "weapon": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m30_416.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "50 Nemesis Arctic Marble",
     "id": 7426,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m39_41.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7427
-  },
-  {
-    "name": "50 Nemesis Arctic Marble",
-    "id": 7426,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m39_41.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pecheneg-SP Arctic Marble",
@@ -60475,26 +59404,12 @@ window.skins = [
     "index": 7428
   },
   {
-    "name": "Pecheneg-SP Arctic Marble",
-    "id": 7427,
-    "weapon": 7,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m18_289.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Honey Badger Arctic Marble",
     "id": 7428,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m29_417.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 2,
     "index": 7429
-  },
-  {
-    "name": "Honey Badger Arctic Marble",
-    "id": 7428,
-    "weapon": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m29_417.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "G11 Arctic Marble",
@@ -60505,26 +59420,12 @@ window.skins = [
     "index": 7430
   },
   {
-    "name": "G11 Arctic Marble",
-    "id": 7429,
-    "weapon": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_12.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Jokuku",
     "id": 7430,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_17.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7431
-  },
-  {
-    "name": "Jokuku",
-    "id": 7430,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_17.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Company Card",
@@ -60535,26 +59436,12 @@ window.skins = [
     "index": 7432
   },
   {
-    "name": "Company Card",
-    "id": 7431,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_103_3.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "P90 Neon Blight",
     "id": 7432,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m27_33.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7433
-  },
-  {
-    "name": "P90 Neon Blight",
-    "id": 7432,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m27_33.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "FRVR Mug",
@@ -60565,26 +59452,12 @@ window.skins = [
     "index": 7434
   },
   {
-    "name": "FRVR Mug",
-    "id": 7433,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_153.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Imperial '66",
     "id": 7434,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m13_246.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 8,
     "index": 7435
-  },
-  {
-    "name": "Imperial '66",
-    "id": 7434,
-    "weapon": 8,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m13_246.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Eterno",
@@ -60595,26 +59468,12 @@ window.skins = [
     "index": 7436
   },
   {
-    "name": "Eterno",
-    "id": 7435,
-    "weapon": 10,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_c9.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "P90 Forgotten Sands",
     "id": 7436,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m27_34.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 4,
     "index": 7437
-  },
-  {
-    "name": "P90 Forgotten Sands",
-    "id": 7436,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m27_34.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "50 Nemesis Desert Dune",
@@ -60625,26 +59484,12 @@ window.skins = [
     "index": 7438
   },
   {
-    "name": "50 Nemesis Desert Dune",
-    "id": 7437,
-    "weapon": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m39_42.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Selakuku",
     "id": 7438,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_18.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7439
-  },
-  {
-    "name": "Selakuku",
-    "id": 7438,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_18.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Eterno Mug",
@@ -60655,26 +59500,12 @@ window.skins = [
     "index": 7440
   },
   {
-    "name": "Eterno Mug",
-    "id": 7439,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_153_1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Rapukuku",
     "id": 7440,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_19.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7441
-  },
-  {
-    "name": "Rapukuku",
-    "id": 7440,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_19.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Barakuku",
@@ -60685,26 +59516,12 @@ window.skins = [
     "index": 7442
   },
   {
-    "name": "Barakuku",
-    "id": 7441,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_20.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Gabuku",
     "id": 7442,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_21.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7443
-  },
-  {
-    "name": "Gabuku",
-    "id": 7442,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_21.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Imperial Purple",
@@ -60715,26 +59532,12 @@ window.skins = [
     "index": 7444
   },
   {
-    "name": "Imperial Purple",
-    "id": 7443,
-    "type": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/5_40.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Cowboy",
     "id": 7444,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/5_41.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 5,
     "index": 7445
-  },
-  {
-    "name": "Cowboy",
-    "id": 7444,
-    "type": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/5_41.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Serenity",
@@ -60745,26 +59548,12 @@ window.skins = [
     "index": 7446
   },
   {
-    "name": "Serenity",
-    "id": 7445,
-    "type": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/5_42.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Glitch",
     "id": 7446,
     "rarity": 7,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/5_43.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 5,
     "index": 7447
-  },
-  {
-    "name": "Glitch",
-    "id": 7446,
-    "type": 5,
-    "rarity": 7,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/5_43.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Love",
@@ -61021,25 +59810,11 @@ window.skins = [
     "index": 7464
   },
   {
-    "name": "Atomic",
-    "id": 7480,
-    "type": 16,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_67.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Burg",
     "id": 7481,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_68.webp?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "index": 7465
-  },
-  {
-    "name": "Burg",
-    "id": 7481,
-    "type": 16,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_68.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Citadel",
@@ -61049,25 +59824,11 @@ window.skins = [
     "index": 7466
   },
   {
-    "name": "Citadel",
-    "id": 7482,
-    "type": 16,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_69.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Industry",
     "id": 7483,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_70.webp?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "index": 7467
-  },
-  {
-    "name": "Industry",
-    "id": 7483,
-    "type": 16,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_70.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Sandstorm",
@@ -61077,25 +59838,11 @@ window.skins = [
     "index": 7468
   },
   {
-    "name": "Sandstorm",
-    "id": 7484,
-    "type": 16,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_71.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Site",
     "id": 7485,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_72.webp?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "index": 7469
-  },
-  {
-    "name": "Site",
-    "id": 7485,
-    "type": 16,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_72.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "P90 Bubblegum Burst",
@@ -61106,26 +59853,12 @@ window.skins = [
     "index": 7470
   },
   {
-    "name": "P90 Bubblegum Burst",
-    "id": 7486,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m28_36.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "c93",
     "id": 7487,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m13_85.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 3,
     "index": 7471
-  },
-  {
-    "name": "c93",
-    "id": 7487,
-    "weapon": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m13_85.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Urikuku",
@@ -61136,26 +59869,12 @@ window.skins = [
     "index": 7472
   },
   {
-    "name": "Urikuku",
-    "id": 7488,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_22.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Howdy Jacket",
     "id": 7489,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_284.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 2,
     "index": 7473
-  },
-  {
-    "name": "Howdy Jacket",
-    "id": 7489,
-    "type": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_284.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Howdy Hat",
@@ -61166,26 +59885,12 @@ window.skins = [
     "index": 7474
   },
   {
-    "name": "Howdy Hat",
-    "id": 7490,
-    "type": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_498.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Howdy Waist",
     "id": 7491,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_90.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 6,
     "index": 7475
-  },
-  {
-    "name": "Howdy Waist",
-    "id": 7491,
-    "type": 6,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_90.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Howdy Boots",
@@ -61196,26 +59901,12 @@ window.skins = [
     "index": 7476
   },
   {
-    "name": "Howdy Boots",
-    "id": 7492,
-    "type": 8,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_62.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Krunkuku Horns - Uriel",
     "id": 7493,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_499.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 1,
     "index": 7477
-  },
-  {
-    "name": "Krunkuku Horns - Uriel",
-    "id": 7493,
-    "type": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_499.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Krunkuku Gold Horns",
@@ -61226,26 +59917,12 @@ window.skins = [
     "index": 7478
   },
   {
-    "name": "Krunkuku Gold Horns",
-    "id": 7494,
-    "type": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_500.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "KR'ider Buster - Blaster Mode",
     "id": 7495,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m7_9.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 12,
     "index": 7479
-  },
-  {
-    "name": "KR'ider Buster - Blaster Mode",
-    "id": 7495,
-    "weapon": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m7_9.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "KR'ider Buster - Slasher Mode",
@@ -61256,26 +59933,12 @@ window.skins = [
     "index": 7480
   },
   {
-    "name": "KR'ider Buster - Slasher Mode",
-    "id": 7496,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_154.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "KR'ider Driver",
     "id": 7497,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_91.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 6,
     "index": 7481
-  },
-  {
-    "name": "KR'ider Driver",
-    "id": 7497,
-    "type": 6,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_91.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Davinkur",
@@ -61286,26 +59949,12 @@ window.skins = [
     "index": 7482
   },
   {
-    "name": "Davinkur",
-    "id": 7498,
-    "weapon": 17,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_m7_7.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "KR'ider Armor",
     "id": 7499,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_285.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 2,
     "index": 7483
-  },
-  {
-    "name": "KR'ider Armor",
-    "id": 7499,
-    "type": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_285.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "KR'ider Helmet",
@@ -61316,26 +59965,12 @@ window.skins = [
     "index": 7484
   },
   {
-    "name": "KR'ider Helmet",
-    "id": 7500,
-    "type": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_501.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Aqua Cloak",
     "id": 7501,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_286.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 14,
     "index": 7485
-  },
-  {
-    "name": "Aqua Cloak",
-    "id": 7501,
-    "type": 14,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_286.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pyralis Cloak",
@@ -61346,26 +59981,12 @@ window.skins = [
     "index": 7486
   },
   {
-    "name": "Pyralis Cloak",
-    "id": 7502,
-    "type": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_286_1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Gaia Cloak",
     "id": 7503,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_286_2.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 14,
     "index": 7487
-  },
-  {
-    "name": "Gaia Cloak",
-    "id": 7503,
-    "type": 14,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_286_2.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Zephyr Cloak",
@@ -61376,26 +59997,12 @@ window.skins = [
     "index": 7488
   },
   {
-    "name": "Zephyr Cloak",
-    "id": 7504,
-    "type": 14,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_286_3.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Aqua Ball",
     "id": 7505,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_502.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 15,
     "index": 7489
-  },
-  {
-    "name": "Aqua Ball",
-    "id": 7505,
-    "type": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_502.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pyralis Ball",
@@ -61406,26 +60013,12 @@ window.skins = [
     "index": 7490
   },
   {
-    "name": "Pyralis Ball",
-    "id": 7506,
-    "type": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_502_1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "index": 7491,
     "name": "Season 9 Starter Ticket",
     "id": 7507,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_14.png?build=3jG7h2nAvr595bBgWtxxT9IAPfX47yp8",
     "type": 13
-  },
-  {
-    "name": "Season 9 Starter Ticket",
-    "id": 7507,
-    "type": 13,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_14.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "index": 7492,
@@ -61436,26 +60029,12 @@ window.skins = [
     "type": 13
   },
   {
-    "name": "Season 9 Elite Ticket",
-    "id": 7508,
-    "type": 13,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_15.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "index": 7493,
     "name": "Season 9 Heroic Ticket",
     "id": 7509,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_16.png?build=3jG7h2nAvr595bBgWtxxT9IAPfX47yp8",
     "type": 13
-  },
-  {
-    "name": "Season 9 Heroic Ticket",
-    "id": 7509,
-    "type": 13,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_16.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "index": 7494,
@@ -61466,13 +60045,6 @@ window.skins = [
     "type": 13
   },
   {
-    "name": "Season 9 Ultra Ticket",
-    "id": 7510,
-    "type": 13,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/13_0_17.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "KR'ider Suit",
     "id": 7511,
     "rarity": 6,
@@ -61481,26 +60053,12 @@ window.skins = [
     "index": 7495
   },
   {
-    "name": "KR'ider Suit",
-    "id": 7511,
-    "type": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/5_44.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Lil'Ga Kaiju",
     "id": 7512,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_20.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 9,
     "index": 7496
-  },
-  {
-    "name": "Lil'Ga Kaiju",
-    "id": 7512,
-    "type": 9,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_20.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "id": 7513,
@@ -61583,26 +60141,12 @@ window.skins = [
     "index": 7506
   },
   {
-    "name": "S9 Bronze Rank",
-    "id": 7522,
-    "type": 12,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_26.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "S9 Silver Rank",
     "id": 7523,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_26_1.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7507
-  },
-  {
-    "name": "S9 Silver Rank",
-    "id": 7523,
-    "type": 12,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_26_1.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "S9 Gold Rank",
@@ -61613,26 +60157,12 @@ window.skins = [
     "index": 7508
   },
   {
-    "name": "S9 Gold Rank",
-    "id": 7524,
-    "type": 12,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_26_2.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "S9 Platinum Rank",
     "id": 7525,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_26_4.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7509
-  },
-  {
-    "name": "S9 Platinum Rank",
-    "id": 7525,
-    "type": 12,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_26_4.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "S9 Diamond Rank",
@@ -61643,26 +60173,12 @@ window.skins = [
     "index": 7510
   },
   {
-    "name": "S9 Diamond Rank",
-    "id": 7526,
-    "type": 12,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_26_3.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "S9 Master Rank",
     "id": 7527,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_25.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7511
-  },
-  {
-    "name": "S9 Master Rank",
-    "id": 7527,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_25.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Krunkuku Gacha Box",
@@ -61673,13 +60189,6 @@ window.skins = [
     "index": 7512
   },
   {
-    "name": "Krunkuku Gacha Box",
-    "id": 7528,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_155.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Power Cell",
     "id": 7529,
     "rarity": 5,
@@ -61688,26 +60197,12 @@ window.skins = [
     "index": 7513
   },
   {
-    "name": "Power Cell",
-    "id": 7529,
-    "weapon": 30,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m3_3.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Depleted Powercell",
     "id": 7530,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m3_4.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 30,
     "index": 7514
-  },
-  {
-    "name": "Depleted Powercell",
-    "id": 7530,
-    "weapon": 30,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m3_4.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Angel Armour",
@@ -61726,26 +60221,12 @@ window.skins = [
     "index": 7516
   },
   {
-    "name": "GS Classic",
-    "id": 7532,
-    "type": 11,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/11_5.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Skorpion",
     "id": 7533,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_m7_8.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 17,
     "index": 7517
-  },
-  {
-    "name": "Skorpion",
-    "id": 7533,
-    "weapon": 17,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_m7_8.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Verdant Quantum Disruptor",
@@ -61756,26 +60237,12 @@ window.skins = [
     "index": 7518
   },
   {
-    "name": "Verdant Quantum Disruptor",
-    "id": 7534,
-    "weapon": 8,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m12_245.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Void Hunter",
     "id": 7535,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_13.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 15,
     "index": 7519
-  },
-  {
-    "name": "Void Hunter",
-    "id": 7535,
-    "weapon": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m9_13.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Verdant Matter",
@@ -61786,26 +60253,12 @@ window.skins = [
     "index": 7520
   },
   {
-    "name": "Verdant Matter",
-    "id": 7536,
-    "weapon": 4,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_442.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Doughnut Tamer",
     "id": 7537,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_288.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 14,
     "index": 7521
-  },
-  {
-    "name": "Doughnut Tamer",
-    "id": 7537,
-    "type": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_288.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Repeater",
@@ -61816,26 +60269,12 @@ window.skins = [
     "index": 7522
   },
   {
-    "name": "Repeater",
-    "id": 7538,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m40_43.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "50 Nemesis",
     "id": 7539,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m39_44.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7523
-  },
-  {
-    "name": "50 Nemesis",
-    "id": 7539,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m39_44.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Spider Web",
@@ -61846,26 +60285,12 @@ window.skins = [
     "index": 7524
   },
   {
-    "name": "Spider Web",
-    "id": 7540,
-    "type": 14,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_289.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Skull Head",
     "id": 7541,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_503.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 15,
     "index": 7525
-  },
-  {
-    "name": "Skull Head",
-    "id": 7541,
-    "type": 15,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_503.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Bone Wings",
@@ -61876,26 +60301,12 @@ window.skins = [
     "index": 7526
   },
   {
-    "name": "Bone Wings",
-    "id": 7542,
-    "type": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_290.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Subject 67 Bandage",
     "id": 7543,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_504.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 15,
     "index": 7527
-  },
-  {
-    "name": "Subject 67 Bandage",
-    "id": 7543,
-    "type": 15,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_504.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Subject 67 Face",
@@ -61906,26 +60317,12 @@ window.skins = [
     "index": 7528
   },
   {
-    "name": "Subject 67 Face",
-    "id": 7544,
-    "type": 7,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_618.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Subject 67",
     "id": 7545,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_505.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 15,
     "index": 7529
-  },
-  {
-    "name": "Subject 67",
-    "id": 7545,
-    "type": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_505.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Snowball Machine",
@@ -61936,26 +60333,12 @@ window.skins = [
     "index": 7530
   },
   {
-    "name": "Snowball Machine",
-    "id": 7546,
-    "type": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_291.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Wrapped RPG",
     "id": 7547,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_141.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 9,
     "index": 7531
-  },
-  {
-    "name": "Wrapped RPG",
-    "id": 7547,
-    "weapon": 9,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_141.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Wrapped Uzi",
@@ -61966,26 +60349,12 @@ window.skins = [
     "index": 7532
   },
   {
-    "name": "Wrapped Uzi",
-    "id": 7548,
-    "weapon": 10,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_196.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Nordic Heritage Line",
     "id": 7549,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m19_349.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 6,
     "index": 7533
-  },
-  {
-    "name": "Nordic Heritage Line",
-    "id": 7549,
-    "weapon": 6,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m19_349.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Merry Marksman",
@@ -61996,26 +60365,12 @@ window.skins = [
     "index": 7534
   },
   {
-    "name": "Merry Marksman",
-    "id": 7550,
-    "weapon": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m41_45.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "WA2000",
     "id": 7551,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m41_46.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7535
-  },
-  {
-    "name": "WA2000",
-    "id": 7551,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m41_46.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "AA12",
@@ -62026,13 +60381,6 @@ window.skins = [
     "index": 7536
   },
   {
-    "name": "AA12",
-    "id": 7552,
-    "weapon": 6,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m19_350.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Festivized",
     "id": 7553,
     "rarity": 6,
@@ -62041,26 +60389,12 @@ window.skins = [
     "index": 7537
   },
   {
-    "name": "Festivized",
-    "id": 7553,
-    "weapon": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m13_13.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Midnight",
     "id": 7554,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_156.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 3,
     "index": 7538
-  },
-  {
-    "name": "Midnight",
-    "id": 7554,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_156.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Lightbound",
@@ -62072,25 +60406,11 @@ window.skins = [
   },
   {
     "name": "Lightbound",
-    "id": 7555,
-    "type": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_292.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Lightbound",
     "id": 7556,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_506.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 1,
     "index": 7540
-  },
-  {
-    "name": "Lightbound",
-    "id": 7556,
-    "type": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_506.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Lightbound",
@@ -62102,25 +60422,11 @@ window.skins = [
   },
   {
     "name": "Lightbound",
-    "id": 7557,
-    "type": 8,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_63.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Lightbound",
     "id": 7558,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/11_6.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 11,
     "index": 7542
-  },
-  {
-    "name": "Lightbound",
-    "id": 7558,
-    "type": 11,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/11_6.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Cookie Claus",
@@ -62131,26 +60437,12 @@ window.skins = [
     "index": 7543
   },
   {
-    "name": "Cookie Claus",
-    "id": 7559,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_27.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Festive Halo",
     "id": 7560,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_293.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 14,
     "index": 7544
-  },
-  {
-    "name": "Festive Halo",
-    "id": 7560,
-    "type": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_293.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Elf Hat",
@@ -62161,26 +60453,12 @@ window.skins = [
     "index": 7545
   },
   {
-    "name": "Elf Hat",
-    "id": 7561,
-    "type": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_507.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Krunkmas Caliber",
     "id": 7562,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m42_47.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 1,
     "index": 7546
-  },
-  {
-    "name": "Krunkmas Caliber",
-    "id": 7562,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m42_47.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Krunkmas Tree Body",
@@ -62191,26 +60469,12 @@ window.skins = [
     "index": 7547
   },
   {
-    "name": "Krunkmas Tree Body",
-    "id": 7563,
-    "type": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_294.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Krunkmas Tree Head",
     "id": 7564,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_508.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 15,
     "index": 7548
-  },
-  {
-    "name": "Krunkmas Tree Head",
-    "id": 7564,
-    "type": 15,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_508.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Krunkmas Present Boots",
@@ -62221,13 +60485,6 @@ window.skins = [
     "index": 7549
   },
   {
-    "name": "Krunkmas Present Boots",
-    "id": 7565,
-    "type": 8,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_64.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "XMAS Ugly Sweater",
     "id": 7566,
     "rarity": 4,
@@ -62236,26 +60493,12 @@ window.skins = [
     "index": 7550
   },
   {
-    "name": "XMAS Ugly Sweater",
-    "id": 7566,
-    "type": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_295.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Festivized",
     "id": 7567,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m14_248.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "weapon": 8,
     "index": 7551
-  },
-  {
-    "name": "Festivized",
-    "id": 7567,
-    "weapon": 8,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m14_248.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Flushed Elf",
@@ -62326,26 +60569,12 @@ window.skins = [
     "index": 7556
   },
   {
-    "name": "HoHo 'Heavy",
-    "id": 7576,
-    "weapon": 30,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m4_5.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Stocking",
     "id": 7577,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_28.png?build=5Uq52IsORuajBVPr2jaxO9AvXjL4kPK4",
     "type": 12,
     "index": 7557
-  },
-  {
-    "name": "Stocking",
-    "id": 7577,
-    "type": 12,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_28.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Clan Cape",
@@ -62355,25 +60584,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_297.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Clan Cape",
-    "id": 7578,
-    "type": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_297.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Clan Pole Banner",
     "id": 7579,
     "type": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_298.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Clan Pole Banner",
-    "id": 7579,
-    "type": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_298.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Clan Banner",
@@ -62383,25 +60598,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_157.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Clan Banner",
-    "id": 7580,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_157.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Clan Tabard",
     "id": 7581,
     "type": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_296.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Clan Tabard",
-    "id": 7581,
-    "type": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_296.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured",
@@ -62412,24 +60613,10 @@ window.skins = [
   },
   {
     "name": "Fractured",
-    "id": 7582,
-    "weapon": 1,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_520.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Fractured",
     "id": 7583,
     "weapon": 2,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_547.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Fractured",
-    "id": 7583,
-    "weapon": 2,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_547.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured",
@@ -62440,24 +60627,10 @@ window.skins = [
   },
   {
     "name": "Fractured",
-    "id": 7584,
-    "weapon": 9,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_142.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Fractured",
     "id": 7585,
     "weapon": 5,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_379.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Fractured",
-    "id": 7585,
-    "weapon": 5,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_379.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured",
@@ -62468,24 +60641,10 @@ window.skins = [
   },
   {
     "name": "Fractured",
-    "id": 7586,
-    "weapon": 7,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_294.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Fractured",
     "id": 7587,
     "weapon": 14,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_62.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Fractured",
-    "id": 7587,
-    "weapon": 14,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_62.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured",
@@ -62496,24 +60655,10 @@ window.skins = [
   },
   {
     "name": "Fractured",
-    "id": 7588,
-    "weapon": 15,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_338.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Fractured",
     "id": 7589,
     "weapon": 29,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_52.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Fractured",
-    "id": 7589,
-    "weapon": 29,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_52.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured",
@@ -62524,24 +60669,10 @@ window.skins = [
   },
   {
     "name": "Fractured",
-    "id": 7590,
-    "weapon": 19,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_120.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Fractured",
     "id": 7591,
     "weapon": 4,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_443.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Fractured",
-    "id": 7591,
-    "weapon": 4,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_443.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it Sniper",
@@ -62551,25 +60682,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_521.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it Sniper",
-    "id": 7592,
-    "weapon": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_521.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it AK",
     "id": 7593,
     "weapon": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_548.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it AK",
-    "id": 7593,
-    "weapon": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_548.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it SMG",
@@ -62579,25 +60696,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_444.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it SMG",
-    "id": 7594,
-    "weapon": 4,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_444.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it Rev",
     "id": 7595,
     "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_381.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it Rev",
-    "id": 7595,
-    "weapon": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_381.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it Shotty",
@@ -62607,25 +60710,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_352.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it Shotty",
-    "id": 7596,
-    "weapon": 6,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_352.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it Noir",
     "id": 7597,
     "weapon": 7,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_295.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it Noir",
-    "id": 7597,
-    "weapon": 7,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_295.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it Semi",
@@ -62635,25 +60724,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_295.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it Semi",
-    "id": 7598,
-    "weapon": 8,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_295.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it RL",
     "id": 7599,
     "weapon": 9,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_143.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it RL",
-    "id": 7599,
-    "weapon": 9,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_143.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it Uzi",
@@ -62663,25 +60738,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_11.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it Uzi",
-    "id": 7600,
-    "weapon": 10,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_11.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it Crossy",
     "id": 7601,
     "weapon": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_63.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it Crossy",
-    "id": 7601,
-    "weapon": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_63.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it Famas",
@@ -62691,25 +60752,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_340.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it Famas",
-    "id": 7602,
-    "weapon": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_340.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it Blaster",
     "id": 7603,
     "weapon": 19,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_121.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it Blaster",
-    "id": 7603,
-    "weapon": 19,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_121.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it Charger",
@@ -62719,25 +60766,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_53.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it Charger",
-    "id": 7604,
-    "weapon": 29,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_53.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it Pistol",
     "id": 7605,
     "weapon": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_4.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it Pistol",
-    "id": 7605,
-    "weapon": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_4.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pop-it Golden",
@@ -62747,25 +60780,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_148.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pop-it Golden",
-    "id": 7606,
-    "weapon": 11,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_148.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pop-it Glorp Gun",
     "id": 7607,
     "weapon": 12,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_12.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pop-it Glorp Gun",
-    "id": 7607,
-    "weapon": 12,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_12.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured",
@@ -62776,24 +60795,10 @@ window.skins = [
   },
   {
     "name": "Fractured",
-    "id": 7608,
-    "weapon": 6,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_351.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Fractured",
     "id": 7609,
     "weapon": 8,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_249.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Fractured",
-    "id": 7609,
-    "weapon": 8,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_249.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured",
@@ -62803,25 +60808,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_200.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Fractured",
-    "id": 7610,
-    "weapon": 10,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_200.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Nebula",
     "id": 7611,
     "weapon": 15,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_339.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Nebula",
-    "id": 7611,
-    "weapon": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_339.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Ravens Mark",
@@ -62831,25 +60822,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_519.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Ravens Mark",
-    "id": 7612,
-    "weapon": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_519.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Sand Rhino",
     "id": 7613,
     "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_14.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Sand Rhino",
-    "id": 7613,
-    "weapon": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_14.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Sand PP90",
@@ -62859,25 +60836,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_197.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Sand PP90",
-    "id": 7614,
-    "weapon": 10,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_197.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Eterno Cap",
     "id": 7615,
     "type": 1,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_179_7.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Eterno Cap",
-    "id": 7615,
-    "type": 1,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_179_7.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Eterno Snap",
@@ -62887,25 +60850,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_159.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Eterno Snap",
-    "id": 7616,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_159.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Eterno Spinner",
     "id": 7617,
     "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_160.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Eterno Spinner",
-    "id": 7617,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_160.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Ranked Tamer",
@@ -62915,25 +60864,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_299.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Ranked Tamer",
-    "id": 7618,
-    "type": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_299.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Snow Rhino",
     "id": 7619,
     "weapon": 5,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_15.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Snow Rhino",
-    "id": 7619,
-    "weapon": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_15.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Snow PP90",
@@ -62943,25 +60878,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_198.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Snow PP90",
-    "id": 7620,
-    "weapon": 10,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_198.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Salvaged Shiv",
     "id": 7621,
     "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_161.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Salvaged Shiv",
-    "id": 7621,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_161.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Spoon",
@@ -62971,25 +60892,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_162.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Spoon",
-    "id": 7622,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_162.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "BUBBLR",
     "id": 7623,
     "weapon": 5,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m15_16.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "BUBBLR",
-    "id": 7623,
-    "weapon": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m15_16.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Lactose Intolerant",
@@ -62999,25 +60906,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_163.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Lactose Intolerant",
-    "id": 7624,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_163.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pin",
     "id": 7625,
     "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_164.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pin",
-    "id": 7625,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_164.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Compound Bow",
@@ -63027,25 +60920,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m8_8.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Compound Bow",
-    "id": 7627,
-    "weapon": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m8_8.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Sword Fish",
     "id": 7628,
     "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_165.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Sword Fish",
-    "id": 7628,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_165.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "EDU-45 Compact",
@@ -63055,25 +60934,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m29_37.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "EDU-45 Compact",
-    "id": 7629,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m29_37.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Protractor X",
     "id": 7630,
     "weapon": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m9_9.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Protractor X",
-    "id": 7630,
-    "weapon": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m9_9.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Nagant M1895",
@@ -63083,25 +60948,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_17.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Nagant M1895",
-    "id": 7631,
-    "weapon": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_17.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Mosin Nagant",
     "id": 7632,
     "weapon": 1,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m44_48.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Mosin Nagant",
-    "id": 7632,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m44_48.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Checkmark",
@@ -63111,25 +60962,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_509.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Checkmark",
-    "id": 7633,
-    "type": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_509.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Epica Glasses",
     "id": 7634,
     "type": 15,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_510.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Epica Glasses",
-    "id": 7634,
-    "type": 15,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_510.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Symphony Tamer",
@@ -63139,25 +60976,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_300.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Symphony Tamer",
-    "id": 7635,
-    "type": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_300.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Fossil AK",
     "id": 7636,
     "weapon": 2,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m31_418.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Fossil AK",
-    "id": 7636,
-    "weapon": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m31_418.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Rhino",
@@ -63167,25 +60990,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_18.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Rhino",
-    "id": 7637,
-    "weapon": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m14_18.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Comic",
     "id": 7638,
     "type": 14,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_301.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Comic",
-    "id": 7638,
-    "type": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_301.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "PP90",
@@ -63195,25 +61004,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_199.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "PP90",
-    "id": 7639,
-    "weapon": 10,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m13_199.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Wing Cap",
     "id": 7640,
     "type": 1,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_511.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Wing Cap",
-    "id": 7640,
-    "type": 1,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_511.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Cyber Scythe",
@@ -63223,25 +61018,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_166.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Cyber Scythe",
-    "id": 7641,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_166.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Bricks",
     "id": 7642,
     "type": 1,
     "rarity": 2,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_512.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Bricks",
-    "id": 7642,
-    "type": 1,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_512.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pocket Property",
@@ -63251,25 +61032,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_29.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pocket Property",
-    "id": 7643,
-    "type": 12,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_29.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Genesis (Neon) Redux",
     "id": 7644,
     "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_167.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Genesis (Neon) Redux",
-    "id": 7644,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_167.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Void Fractured",
@@ -63280,24 +61047,10 @@ window.skins = [
   },
   {
     "name": "Void Fractured",
-    "id": 7645,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_168.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Void Fractured",
     "id": 7646,
     "weapon": 2,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m32_419.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Void Fractured",
-    "id": 7646,
-    "weapon": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m32_419.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Void Fractured",
@@ -63307,25 +61060,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m45_49.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Void Fractured",
-    "id": 7647,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m45_49.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Spitfire Regent",
     "id": 7648,
     "weapon": 1,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m46_50.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Spitfire Regent",
-    "id": 7648,
-    "weapon": 1,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m46_50.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Blowdart",
@@ -63335,25 +61074,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m10_10.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Blowdart",
-    "id": 7649,
-    "weapon": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m10_10.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Longbow",
     "id": 7650,
     "weapon": 14,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m11_11.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Longbow",
-    "id": 7650,
-    "weapon": 14,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m11_11.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Krevlin",
@@ -63363,25 +61088,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m12_12.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Krevlin",
-    "id": 7651,
-    "weapon": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m12_12.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Tact'eagle",
     "id": 7652,
     "weapon": 11,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m11_95.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Tact'eagle",
-    "id": 7652,
-    "weapon": 11,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m11_95.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Horus Soul Seeker",
@@ -63391,25 +61102,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_169.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Horus Soul Seeker",
-    "id": 7653,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_169.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Weeeeee Mill",
     "id": 7654,
     "type": 15,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_513.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Weeeeee Mill",
-    "id": 7654,
-    "type": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_513.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Fractured Talon",
@@ -63419,25 +61116,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_160.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Fractured Talon",
-    "id": 7655,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_160.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Kroomerang",
     "id": 7656,
     "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_170.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Kroomerang",
-    "id": 7656,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_170.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "RichGetRicher",
@@ -63447,25 +61130,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_125.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "RichGetRicher",
-    "id": 7657,
-    "weapon": 17,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_125.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Streamline",
     "id": 7658,
     "weapon": 11,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_147.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Streamline",
-    "id": 7658,
-    "weapon": 11,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_147.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Viper Fang",
@@ -63475,25 +61144,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_171.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Viper Fang",
-    "id": 7659,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_171.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Viscera",
     "id": 7660,
     "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_172.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Viscera",
-    "id": 7660,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_172.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Ana Conda",
@@ -63503,25 +61158,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_619.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Ana Conda",
-    "id": 7661,
-    "type": 7,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_619.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Intrigued",
     "id": 7662,
     "type": 7,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_620.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Intrigued",
-    "id": 7662,
-    "type": 7,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_620.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Glen's Requiem",
@@ -63531,25 +61172,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_621.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Glen's Requiem",
-    "id": 7663,
-    "type": 7,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_621.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Spine of the Damned",
     "id": 7664,
     "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_173.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Spine of the Damned",
-    "id": 7664,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_173.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Voidborn",
@@ -63559,25 +61186,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_622.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Voidborn",
-    "id": 7665,
-    "type": 7,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_622.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Symphonica",
     "id": 7666,
     "type": 1,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_514.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Symphonica",
-    "id": 7666,
-    "type": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_514.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Firstlight Skull",
@@ -63587,25 +61200,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_623.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Firstlight Skull",
-    "id": 7667,
-    "type": 7,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_623.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Strawberry Delight",
     "id": 7668,
     "type": 7,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_624.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Strawberry Delight",
-    "id": 7668,
-    "type": 7,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_624.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Lord of Gears",
@@ -63615,13 +61214,6 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m17_19.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Lord of Gears",
-    "id": 7669,
-    "weapon": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m17_19.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Skullsplitter",
     "id": 7670,
     "type": 3,
@@ -63629,25 +61221,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_174.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Skullsplitter",
-    "id": 7670,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_174.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "OTs-14 Groza",
     "id": 7671,
     "weapon": 2,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_420.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "OTs-14 Groza",
-    "id": 7671,
-    "weapon": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_420.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63658,24 +61236,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7672,
-    "weapon": 25,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_25_23.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7673,
     "weapon": 22,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_32.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7673,
-    "weapon": 22,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_22_32.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63686,24 +61250,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7674,
-    "weapon": 16,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_16_42.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7675,
     "weapon": 9,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_144.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7675,
-    "weapon": 9,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_9_144.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63714,24 +61264,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7676,
-    "weapon": 23,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_23_14.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7677,
     "weapon": 11,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_149.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7677,
-    "weapon": 11,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_11_149.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63742,24 +61278,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7678,
-    "weapon": 31,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_31_6.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7679,
     "weapon": 29,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_54.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7679,
-    "weapon": 29,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_29_54.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63770,24 +61292,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7680,
-    "weapon": 19,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_122.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7681,
     "weapon": 17,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_126.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7681,
-    "weapon": 17,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_17_126.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63798,24 +61306,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7682,
-    "weapon": 12,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m5_10.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7683,
     "weapon": 14,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_64.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7683,
-    "weapon": 14,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_64.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63826,24 +61320,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7684,
-    "weapon": 28,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_28_23.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7685,
     "type": 3,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_0_156.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7685,
-    "type": 3,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_0_156.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63854,24 +61334,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7686,
-    "weapon": 1,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_1_522.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7687,
     "weapon": 4,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_445.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7687,
-    "weapon": 4,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_445.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63882,24 +61348,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7688,
-    "weapon": 15,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_341.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7689,
     "weapon": 10,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_201.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7689,
-    "weapon": 10,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_201.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63910,24 +61362,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7690,
-    "weapon": 7,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_7_296.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7691,
     "weapon": 5,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_382.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7691,
-    "weapon": 5,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_382.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63938,24 +61376,10 @@ window.skins = [
   },
   {
     "name": "Amethyst Gold Blend",
-    "id": 7692,
-    "weapon": 8,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_296.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Amethyst Gold Blend",
     "id": 7693,
     "weapon": 6,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_353.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Amethyst Gold Blend",
-    "id": 7693,
-    "weapon": 6,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_353.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -63965,25 +61389,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_549.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Amethyst Gold Blend",
-    "id": 7694,
-    "weapon": 2,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_549.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Usb Shoes",
     "id": 7695,
     "type": 8,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_65.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Usb Shoes",
-    "id": 7695,
-    "type": 8,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_65.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Apache Knuckleduster",
@@ -63993,25 +61403,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m18_20.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Apache Knuckleduster",
-    "id": 7696,
-    "weapon": 5,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m18_20.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Baller",
     "id": 7697,
     "weapon": 15,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_c6.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Baller",
-    "id": 7697,
-    "weapon": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_c6.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pellucid",
@@ -64022,24 +61418,10 @@ window.skins = [
   },
   {
     "name": "Pellucid",
-    "id": 7698,
-    "weapon": 4,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_4_c8.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Pellucid",
     "id": 7699,
     "weapon": 15,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_c8.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pellucid",
-    "id": 7699,
-    "weapon": 15,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_15_c8.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Baller",
@@ -64049,25 +61431,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_c6.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Baller",
-    "id": 7700,
-    "weapon": 19,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_c6.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "BlueCamo Fang",
     "id": 7701,
     "type": 3,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_161.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "BlueCamo Fang",
-    "id": 7701,
-    "type": 3,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_3_161.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Amethyst Gold Blend",
@@ -64077,25 +61445,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_86.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Amethyst Gold Blend",
-    "id": 7702,
-    "weapon": 3,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_3_86.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "KPD Armament",
     "id": 7703,
     "type": 16,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_73.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "KPD Armament",
-    "id": 7703,
-    "type": 16,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_73.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Khepri",
@@ -64105,25 +61459,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_74.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Khepri",
-    "id": 7704,
-    "type": 16,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_74.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Jump Slicer",
     "id": 7713,
     "type": 3,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_175.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Jump Slicer",
-    "id": 7713,
-    "type": 3,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_175.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Krunkersaurus!",
@@ -64133,25 +61473,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_21.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Krunkersaurus!",
-    "id": 7714,
-    "type": 9,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_21.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Eterno Visitor",
     "id": 7716,
     "type": 2,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_302.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Eterno Visitor",
-    "id": 7716,
-    "type": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_302.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Eterno",
@@ -64161,25 +61487,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_c9.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Eterno",
-    "id": 7717,
-    "weapon": 2,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_c9.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Sandstorm OTs-14 Groza",
     "id": 7718,
     "weapon": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_550.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Sandstorm OTs-14 Groza",
-    "id": 7718,
-    "weapon": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_550.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Sandstorm Nagant M1895",
@@ -64189,25 +61501,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_383.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Sandstorm Nagant M1895",
-    "id": 7719,
-    "weapon": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_383.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Permafrost OTs-14 Groza",
     "id": 7720,
     "weapon": 2,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_551.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Permafrost OTs-14 Groza",
-    "id": 7720,
-    "weapon": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m33_551.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Permafrost Nagant M1895",
@@ -64217,25 +61515,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_384.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Permafrost Nagant M1895",
-    "id": 7721,
-    "weapon": 5,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m16_384.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "S9.1 Bronze Rank",
     "id": 7722,
     "type": 12,
     "rarity": 1,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_30.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "S9.1 Bronze Rank",
-    "id": 7722,
-    "type": 12,
-    "rarity": 1,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_30.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "S9.1 Silver Rank",
@@ -64245,25 +61529,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_31.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "S9.1 Silver Rank",
-    "id": 7723,
-    "type": 12,
-    "rarity": 2,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_31.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "S9.1 Gold Rank",
     "id": 7724,
     "type": 12,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_32.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "S9.1 Gold Rank",
-    "id": 7724,
-    "type": 12,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_32.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "S9.1 Platinum Rank",
@@ -64273,13 +61543,6 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_33.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "S9.1 Platinum Rank",
-    "id": 7725,
-    "type": 12,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_33.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "S9.1 Diamond Rank",
     "id": 7726,
     "type": 12,
@@ -64287,25 +61550,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_34.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "S9.1 Diamond Rank",
-    "id": 7726,
-    "type": 12,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_34.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "S9.1 Master Rank",
     "id": 7727,
     "type": 12,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_35.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "S9.1 Master Rank",
-    "id": 7727,
-    "type": 12,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/12_35.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Ranked",
@@ -64316,24 +61565,10 @@ window.skins = [
   },
   {
     "name": "Ranked",
-    "id": 7728,
-    "weapon": 6,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_347.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
-    "name": "Ranked",
     "id": 7729,
     "weapon": 19,
     "rarity": 6,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_c3.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Ranked",
-    "id": 7729,
-    "weapon": 19,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_19_c3.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Crowbar",
@@ -64343,25 +61578,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_176.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Crowbar",
-    "id": 7730,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_176.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Ancient Carving",
     "id": 7731,
     "type": 7,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_625.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Ancient Carving",
-    "id": 7731,
-    "type": 7,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_0_625.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Out of the Box",
@@ -64371,25 +61592,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_3_13.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Out of the Box",
-    "id": 7732,
-    "type": 7,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_3_13.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "5FPS",
     "id": 7733,
     "type": 7,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_3_14.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "5FPS",
-    "id": 7733,
-    "type": 7,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/7_3_14.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Slingshot",
@@ -64399,25 +61606,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m13_65.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Slingshot",
-    "id": 7734,
-    "weapon": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m13_65.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Space Program Helmet",
     "id": 7735,
     "type": 15,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_515.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Space Program Helmet",
-    "id": 7735,
-    "type": 15,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_515.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Space Program Suit",
@@ -64427,25 +61620,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_303.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Space Program Suit",
-    "id": 7736,
-    "type": 2,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_303.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Space Program Belt",
     "id": 7737,
     "type": 6,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_92.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Space Program Belt",
-    "id": 7737,
-    "type": 6,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_92.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Space Program Backpack",
@@ -64455,25 +61634,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_304.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Space Program Backpack",
-    "id": 7738,
-    "type": 14,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_304.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Spiky Hair",
     "id": 7739,
     "type": 1,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_516.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Spiky Hair",
-    "id": 7739,
-    "type": 1,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_516.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Gear-Driven Hat",
@@ -64483,25 +61648,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_517.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Gear-Driven Hat",
-    "id": 7740,
-    "type": 1,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_517.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Gear-Driven Jacket",
     "id": 7741,
     "type": 2,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_305.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Gear-Driven Jacket",
-    "id": 7741,
-    "type": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_305.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Gear-Driven Belt",
@@ -64511,25 +61662,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_93.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Gear-Driven Belt",
-    "id": 7742,
-    "type": 6,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_93.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Gear-Driven Star",
     "id": 7743,
     "type": 6,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_94.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Gear-Driven Star",
-    "id": 7743,
-    "type": 6,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_94.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Black Gi",
@@ -64539,25 +61676,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_306.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Black Gi",
-    "id": 7744,
-    "type": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_306.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Navy Gi Sash",
     "id": 7745,
     "type": 6,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_95.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Navy Gi Sash",
-    "id": 7745,
-    "type": 6,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/6_95.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Burger",
@@ -64567,25 +61690,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_22.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Burger",
-    "id": 7746,
-    "type": 9,
-    "rarity": 6,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/9_22.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Pizza Top",
     "id": 7747,
     "type": 15,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_518.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Pizza Top",
-    "id": 7747,
-    "type": 15,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/1_518.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pizza Bottom",
@@ -64595,25 +61704,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_307.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pizza Bottom",
-    "id": 7748,
-    "type": 2,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_307.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Gear-Driven Boots",
     "id": 7749,
     "type": 8,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_66.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Gear-Driven Boots",
-    "id": 7749,
-    "type": 8,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/8_66.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Pizza Box",
@@ -64623,25 +61718,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_308.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Pizza Box",
-    "id": 7750,
-    "type": 14,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/cosmetics/2_308.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Mezzaluna",
     "id": 7751,
     "type": 3,
     "rarity": 5,
     "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_177.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Mezzaluna",
-    "id": 7751,
-    "type": 3,
-    "rarity": 5,
-    "thumbnail": "https://assets.krunker.io/textures/previews/melee/melee_177.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Space Program",
@@ -64651,25 +61732,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_75.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Space Program",
-    "id": 7752,
-    "type": 16,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_75.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "⁠Gear-Driven",
     "id": 7753,
     "type": 16,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_76.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "⁠Gear-Driven",
-    "id": 7753,
-    "type": 16,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_76.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Buon Appetito",
@@ -64679,25 +61746,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/playercards/card_77.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Buon Appetito",
-    "id": 7754,
-    "type": 16,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/playercards/card_77.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "What?! Urikuku",
     "id": 7755,
     "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_21.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "What?! Urikuku",
-    "id": 7755,
-    "type": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_21.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Chill... Gabakuku",
@@ -64707,25 +61760,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_22.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Chill... Gabakuku",
-    "id": 7756,
-    "type": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_22.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Sob... Jokuku",
     "id": 7757,
     "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_23.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Sob... Jokuku",
-    "id": 7757,
-    "type": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_23.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "ARGH... Michakuku",
@@ -64735,25 +61774,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_24.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "ARGH... Michakuku",
-    "id": 7758,
-    "type": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_24.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "OMEGALUL Barakuku",
     "id": 7759,
     "type": 17,
     "rarity": 3,
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_25.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "OMEGALUL Barakuku",
-    "id": 7759,
-    "type": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_25.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Okay! Selakuku",
@@ -64763,13 +61788,6 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_26.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Okay! Selakuku",
-    "id": 7760,
-    "type": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_26.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Zzz... Rapkuku",
     "id": 7761,
     "type": 17,
@@ -64777,25 +61795,11 @@ window.skins = [
     "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_27.webp?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
   },
   {
-    "name": "Zzz... Rapkuku",
-    "id": 7761,
-    "type": 17,
-    "rarity": 3,
-    "thumbnail": "https://assets.krunker.io/textures/emoji/emoji_27.webp?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
-  },
-  {
     "name": "Bowling Ball",
     "id": 7762,
     "weapon": 30,
     "rarity": 4,
     "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m2_6.png?build=AjbDRXzhjHIjtAylKaGGcc3bY0qHXVDV"
-  },
-  {
-    "name": "Bowling Ball",
-    "id": 7762,
-    "weapon": 30,
-    "rarity": 4,
-    "thumbnail": "https://assets.krunker.io/textures/previews/weapons/weapon_30_m2_6.png?build=7IS6yK5mxvg54G47hEKwUjB7Dpw86p77"
   },
   {
     "name": "Echo of Acheron",
